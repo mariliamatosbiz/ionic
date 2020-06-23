@@ -1,5 +1,7 @@
 {
-  "name": "ProjetoIonic",
-  "integrations": {},
+  "name": "galeria-fotos",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
